@@ -107,10 +107,10 @@ Você terminará o ano com muito aprendizado e feito muitos novos amigos ao long
 
 ## Exemplos
 
-- [Minha análise da demonstração do React Suspense](https://dev.to/swyx/a-walkthrough-of-that-react-suspense-demo--4j6a) no dia seguinte ao seu lançamento em 2018 quando eu ainda estava iniciando com o React Twitter, e [você pode ver a resposta aqui](https://nitter.net/search?f=tweets&q=https%3A%2F%2Fdev.to%2Fswyx%2Fa-walkthrough-of-that-react-suspense-demo--4j6a%20)
+- [Minha análise (em inglês) da demonstração do React Suspense](https://dev.to/swyx/a-walkthrough-of-that-react-suspense-demo--4j6a) no dia seguinte ao seu lançamento em 2018 quando eu ainda estava iniciando com o React Twitter, e [você pode ver a resposta aqui](https://nitter.net/search?f=tweets&q=https%3A%2F%2Fdev.to%2Fswyx%2Fa-walkthrough-of-that-react-suspense-demo--4j6a%20)
 - [Eu resumindo o livro de TypeScript do Boris Cherny](https://nitter.net/swyx/status/1135525665971695617#m)
 - [Eu resumindo a aparição do Evan You em um podcast](https://nitter.net/swyx/status/1199619073836867585#m)
-- Sean Wes: [Aprenda Com As Pessoas À Frente, Conecte-se Com As Pessoas Ao Lado](https://seanwes.com/podcast/486-sabbatical-episode-finding-community-part-3-of-5-learn-from-people-ahead-connect-with-people-beside/)
+- Sean Wes: [Learn From People Ahead, Connect With People Beside](https://seanwes.com/podcast/486-sabbatical-episode-finding-community-part-3-of-5-learn-from-people-ahead-connect-with-people-beside/) (Aprenda Com As Pessoas À Frente, Conecte-se Com As Pessoas Ao Lado)
   - Procure pela fórmula da Grandeza e o Método do Melhor Amigo.
 
 

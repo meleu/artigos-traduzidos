@@ -29,9 +29,8 @@ Você pode ajudar divulgando esse projeto nas suas redes sociais e grupos de des
 
 E se esse projeto te ajudou de alguma forma, considere fazer uma doação através dos links a seguir:
 
+- PicPay: [🍬 R$ 1](https://picpay.me/meleuzord/1.00) | [☕ R$ 5](https://picpay.me/meleuzord/5.00) | [🍺 R$ 10](https://picpay.me/meleuzord/10.00) | [🎁 Definir valor](https://picpay.me/meleuzord/)
 - <https://ko-fi.com/meleu>
-- <https://picpay.me/meleuzord/>
-
 
 ## 📃 Lista de Artigos
 

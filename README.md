@@ -18,7 +18,7 @@ Para tentar transpor essa barreira para você que ainda tem dificuldades com o i
 
 A minha intenção é traduzir apenas artigos que eu acredito que permanecerão relevantes por anos (portanto não espere ver conteúdo sobre aquela ferramenta/biblioteca/framework da moda).
 
-Se quiser sugerir algum artigo para ser traduzido, [abra uma issue](https://github.com/meleu/artigos-traduzidos/issues/new/choose)
+Se quiser sugerir algum artigo para ser traduzido, [abra uma issue](https://github.com/meleu/artigos-traduzidos/issues)
 
 **Observação**: apenas traduzo artigos com autorização expressa do autor original.
 

@@ -57,6 +57,3 @@ Aprenda em público.
 
 p.s. Eventualmente te pagarão por sua ajuda também. Bem mais do que você pensa.
 
----
-
-{% include_relative DONATE.md %}

@@ -2,8 +2,12 @@
 
 ## A maneira mais rápida de aprender
 
+---
+
 > Artigo original: <https://www.swyx.io/learn-in-public/>\
 > Traduzido por [meleu](https://github.com/meleu)
+
+---
 
 A maneira mais rápida de aprender, crescer na carreira, e construir sua rede de contatos.
 

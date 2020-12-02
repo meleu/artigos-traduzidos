@@ -2,7 +2,7 @@
 
 Traduzindo para o português artigos que permanecerão relevantes por vários anos.
 
-Se preferir, vá direto para a [lista de artigos](#--lista-de-artigos).
+Se preferir, vá direto para a [lista de artigos](#-lista-de-artigos).
 
 
 ## 🤷 Por que traduzir?

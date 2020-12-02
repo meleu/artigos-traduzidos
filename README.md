@@ -34,6 +34,6 @@ E se esse projeto te ajudou de alguma forma, considere fazer uma doação atrav�
 
 ## 📃 Lista de Artigos
 
-- [Aprenda Em Público](aprenda-em-publico)
-- [Pegue O Que Eles Largam](pegue-o-que-eles-largam)
+- [Aprenda Em Público](aprenda-em-publico.md)
+- [Pegue O Que Eles Largam](pegue-o-que-eles-largam.md)
 

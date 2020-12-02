@@ -1,5 +1,8 @@
-# 📃 artigos-traduzidos
+# artigos-traduzidos
+
 Traduzindo para o português artigos que permanecerão relevantes por vários anos.
+
+Se preferir, vá direto para a [lista de artigos](#--lista-de-artigos).
 
 
 ## 🤷 Por que traduzir?
@@ -26,3 +29,10 @@ E se esse projeto te ajudou de alguma forma, considere fazer uma doação atrav�
 
 - <https://ko-fi.com/meleu>
 - <https://picpay.me/meleuzord/>
+
+
+## 📃 Lista de Artigos
+
+- [Aprenda Em Público](aprenda-em-publico)
+- [Pegue O Que Eles Largam](pegue-o-que-eles-largam)
+

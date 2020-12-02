@@ -114,3 +114,6 @@ Você terminará o ano com muito aprendizado e feito muitos novos amigos ao long
   - Procure pela fórmula da Grandeza e o Método do Melhor Amigo.
 
 
+---
+
+{% include_relative DONATE.md %}

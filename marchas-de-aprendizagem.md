@@ -53,7 +53,7 @@ Exemplos:
 
 - [Lin Clark](https://code-cartoons.com/)
 
-> Veja também: [O Hack Definitivo Para Aprender Em Público](pegue-o-que-eles-largam.md) (expandindo para "Pegue O Que Eles Largam")
+> Veja também: [O Hack Definitivo Para Aprender Em Público](aprenda-em-publico-hack.md) (expandindo para "Pegue O Que Eles Largam")
 
 
 

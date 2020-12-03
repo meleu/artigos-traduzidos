@@ -12,8 +12,8 @@
 Digamos que você está convencido da ideia de [Aprender Em Público](aprenda-em-publico.md).
 
 Você quer começar imediatamente, mas está se sentindo intimidado com todos aqueles conselhos:
-
-- **"Ei leia minha postagem sobre [Engrenagens de Aprendizagem](engrenagens-de-aprendizagem.md)"** hehe eu típico sendo muito abstrato 😛 
+https://github.com/meleu/artigos-traduzidos/blob/master/
+- **"Ei leia minha postagem sobre [Marchas de Aprendizagem](marchas-de-aprendizagem.md)"** hehe eu típico sendo muito abstrato 😛 
 - **"Apenas comece um blog para você do passado!"** mas você já fez isso antes - e ninguém leu - e você perdeu o interesse.
 - **"Pergunte às pessoas o que elas querem ler!"** mas você não tem a quem perguntar e de qualquer forma as pessoas sempre dizem sim para conteúdo grátis. Que você escreve e eles então não lêem. E aí você perde o interesse.
 - **"Não se preocupe que leva um tempo para ter uma audiência!"** mas todos que te dizem isso não têm a ver com você pois eles já são bem-sucedidos aos seus olhos, e aí você perde o interesse.

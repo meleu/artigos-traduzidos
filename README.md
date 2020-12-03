@@ -24,5 +24,5 @@ Se quiser sugerir algum artigo para ser traduzido, [abra uma issue](https://gith
 ## 📃 Lista de Artigos
 
 - [Aprenda Em Público](aprenda-em-publico.md)
-- [Pegue O Que Eles Largam](pegue-o-que-eles-largam.md)
-
+- [O Hack Definitivo Para Aprender Em Público](aprenda-em-publico-hack.md)
+- [Marchas de Aprendizagem](marchas-de-aprendizagem.md)

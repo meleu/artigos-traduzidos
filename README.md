@@ -2,6 +2,8 @@
 
 Traduzindo para o português artigos que permanecerão relevantes por vários anos.
 
+- website: <https://meleu.github.io/artigos-traduzidos/>
+- repositório: <https://github.com/meleu/artigos-traduzidos/>
 
 ## 🤷 Por que traduzir?
 

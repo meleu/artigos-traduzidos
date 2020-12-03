@@ -96,9 +96,9 @@ Feedback, feedback, feedback. Você perde o interesse quando você não recebe f
 
 Essa é a época de lançar coisas. No próximo mês, dúzias de novas bibliotecas e demonstrações e palestras e podcasts e cursos e serão lançados, sobre coisas que você quer aprender.
 
-Escolha 3 que te interesse e "pegue" nelas.
+Escolha 3 que te interessam e "pegue" nelas.
 
-Eu virtualmente garanto que você receberá feedback sobre ao menos um. Se você não mirar *muito* alto, você terá 3 de 3.
+Eu virtualmente garanto que você receberá feedback sobre ao menos um. Se você não mirar *muito* alto, você receberá 3 dos 3.
 
 Faça isso 12 vezes.
 

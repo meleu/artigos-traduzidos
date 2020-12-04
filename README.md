@@ -2,6 +2,8 @@
 
 Traduzindo para o português artigos que permanecerão relevantes por vários anos.
 
+O público alvo são pessoas que se interessam em trabalhar no setor de tecnologia (desenvolvedores de software e afins).
+
 - website: <https://meleu.github.io/artigos-traduzidos/>
 - repositório: <https://github.com/meleu/artigos-traduzidos/>
 
@@ -23,7 +25,7 @@ Se quiser sugerir algum artigo para ser traduzido, [abra uma issue](https://gith
 **Observação**: apenas traduzo artigos com autorização expressa do autor original.
 
 
-## 📃 Lista de Artigos
+## 📃 Lista de Artigos Traduzidos
 
 - [Aprenda Em Público](aprenda-em-publico.md)
 - [O Hack Definitivo Para Aprender Em Público](aprenda-em-publico-hack.md)

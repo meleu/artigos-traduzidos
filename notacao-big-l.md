@@ -64,13 +64,13 @@ Mas você também poderia aprender *com* alguém. Quando você Aprende em Públi
 
 Você deveria também mentalmente escalar isso pra cima ou pra baixo de acordo com com o quanto você acha que um `P` adiciona contribui vs. um `N` adicional.
 
-### L(PN) - O Aprendiz em Rede
+### L(PN) - O Aprendiz Conectado
 
-O Aprendiz em Rede aprende com um grupo de pares, compartilhando notas a medida que seguem, se esbarrando quando estão empacados, e aprendendo enquanto respondem questões que eles nunca pensariam em perguntar. Esa habilidade de aprender de pessoas atrás de você, um pouco a frente de você, ou onde você está, é profundamente multiplicativo.
+O Aprendiz Conectado aprende com um grupo de pares, compartilhando notas a medida que seguem, se esbarrando quando estão empacados, e aprendendo enquanto respondem questões que eles nunca pensariam em perguntar. Esa habilidade de aprender de pessoas atrás de você, um pouco a frente de você, ou onde você está, é profundamente multiplicativo.
 
 Provavelmente há um [limite de Dunbar](https://pt.wikipedia.org/wiki/N%C3%BAmero_de_Dunbar) para até onde esse `P` pode crescer, mas eu acho que relações ativas aumentam e diminuem de tal forma que adicionar pares de aprendizagem ainda é sempre aditivo.
 
-Na verdade é *mais difícil* ser um Aprendiz em Rede, porém Com Perdas, ou `L(P log N)`. Se você faz corretamente, as pessoas mantêm você comprometido.
+Na verdade é *mais difícil* ser um Aprendiz Conectado, porém Com Perdas, ou `L(P log N)`. Se você faz corretamente, as pessoas mantêm você comprometido.
 
 
 ### L(PN^2) - O #AprendaEmPublico de Sucesso
@@ -88,7 +88,7 @@ Existem fatores de crescimento de pessoas além do `N^2` - [a lei de Reed (em in
 
 ## P(N) - Reflexividade na Aprendizagem
 
-Claro, o "Big L" é apenas um modelo da realidade, ele não é uma realidade verdadeira. Uma das maneiras que ele se desfaz é fingir que `N` e `P` são variáveis independentes. Elas não são. `P` provavelmente crescerá com `N` com uma função de sua senioridade e influência - ser um bom Aprendiz em rede cresce na ordem de `L(N^2)` o que é muito bom. Mas se você pode descobrir como crescer `P` superlinearmente con `N` - escrevendo, falando, ensinando, etc - você pode fazer sua carreira explodir em possibilidades.
+Claro, o "Big L" é apenas um modelo da realidade, ele não é uma realidade verdadeira. Uma das maneiras que ele se desfaz é fingir que `N` e `P` são variáveis independentes. Elas não são. `P` provavelmente crescerá com `N` com uma função de sua senioridade e influência - ser um bom Aprendiz Conectado cresce na ordem de `L(N^2)` o que é muito bom. Mas se você pode descobrir como crescer `P` superlinearmente con `N` - escrevendo, falando, ensinando, etc - você pode fazer sua carreira explodir em possibilidades.
 
 
 ## Little L

@@ -17,7 +17,7 @@ Big O é útil pois permite engenheiros conversarem em termos ordem de magnitude
 
 Neste post eu esboço a notação `Big L`, que representa seu aprendizado em função deo `N` anos com `P` parceiros. Observe que enquanto o `Big O` é uma curva de custo (quanto mais alto é pior), `Big L` é uma curva de benefício (quanto mais alto é melhor).
 
-![]()
+![](img/big-l-curve.png)
 
 
 ## Aprendendo em Privado

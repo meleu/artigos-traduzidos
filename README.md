@@ -18,7 +18,9 @@ Para tentar transpor essa barreira para você que ainda tem dificuldades com o i
 
 ## 🤔 Que tipo de artigos tem aqui?
 
-A minha intenção é traduzir apenas artigos que eu acredito que permanecerão relevantes por anos (portanto não espere ver conteúdo sobre aquela ferramenta/biblioteca/framework da moda).
+A minha intenção é traduzir apenas artigos de desen que eu acredito que permanecerão relevantes por anos (portanto não espere ver conteúdo sobre aquela ferramenta/biblioteca/framework da moda).
+
+Os autores geralmente são desenvolvedores de software que de alguma forma me inspiram.
 
 Se quiser sugerir algum artigo para ser traduzido, [abra uma issue](https://github.com/meleu/artigos-traduzidos/issues)
 
@@ -30,3 +32,5 @@ Se quiser sugerir algum artigo para ser traduzido, [abra uma issue](https://gith
 - [Aprenda Em Público](aprenda-em-publico.md)
 - [O Hack Definitivo Para Aprender Em Público](aprenda-em-publico-hack.md)
 - [Marchas de Aprendizagem](marchas-de-aprendizagem.md)
+- [Notação Big L](notacao-big-l.md)
+- [Aprendiz Infinito](aprendiz-infinito.md)

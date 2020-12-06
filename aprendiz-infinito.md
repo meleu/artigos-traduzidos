@@ -20,7 +20,7 @@ Nós vemos em nossos filhos sua admiração infantil pelo mundo. Muitas coisas p
 Você pode dizer que ficamos quase exaustos da necessidade de saber como tudo funciona ou até mesmo da nossa capacidade de saber. Mas essa isso nunca acontece para os aprendizes infinitos. Eles mantêm sua admiração infantil por toda a vida e estão sempre curiosos sobre como as coisas funcionam, por que certas deram certo, como algo foi feito, e como eles próprios podem aprender a fazer. Isso também significa que eles nunca presumem que sabem tudo sobre um tópico. Eles estão abertos a novas ideias e novas opiniões sobre diferentes maneiras de fazer as coisas. Ao invés de achar que essas novas ideias distraem, eles as abraçam como oportunidades para reconsiderar suas suposições ou ao menos fortalecer suas razões e crenças nelas. Eles constantemente vão além de perguntar o "o que", para tentar entender profundamente o "por que" e o "como". E essa incessante curiosidade que os leva a aprender continuamente.
 
 
-## Orgulhe-se Da Sua Arte
+## Orgulhe-se da Sua Arte
 
 Aprendizes infinitos também tem um imenso orgulho da arte em seu trabalho. Eles aspiran ser nada menos que estar em nível mundial em seu trabalho. Eles buscam oportunidades para meulhorar seu trabalho e a cada vez pensam sobre como poderiam fazê-lo ainda melhor da próxima vez. Eles se preocupam com todos os detalhes de sua arte, pois sabem que são os detalhes que que produzem um resultado incrivelmente bem-feito. É desse orgulho que vem a qualidade do trabalho deles e que alimento seu desejo por melhoria contínua.
 

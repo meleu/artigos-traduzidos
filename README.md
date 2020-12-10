@@ -18,7 +18,7 @@ Para tentar transpor essa barreira para você que ainda tem dificuldades com o i
 
 ## 🤔 Que tipo de artigos tem aqui?
 
-A minha intenção é traduzir apenas artigos de desen que eu acredito que permanecerão relevantes por anos (portanto não espere ver conteúdo sobre aquela ferramenta/biblioteca/framework da moda).
+A minha intenção é traduzir apenas artigos que eu acredito que permanecerão relevantes por anos (portanto não espere ver conteúdo sobre aquela ferramenta/biblioteca/framework da moda).
 
 Os autores geralmente são desenvolvedores de software que de alguma forma me inspiram.
 

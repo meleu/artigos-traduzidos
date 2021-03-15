@@ -13,10 +13,10 @@ Digamos que você está convencido da ideia de [Aprender Em Público](aprenda-em
 
 Você quer começar imediatamente, mas está se sentindo intimidado com todos aqueles conselhos:
 https://github.com/meleu/artigos-traduzidos/blob/master/
-- **"Ei leia minha postagem sobre [Marchas de Aprendizagem](marchas-de-aprendizagem.md)"** hehe eu típico sendo muito abstrato 😛 
+- **"Ei leia minha postagem sobre [Marchas de Aprendizagem](marchas-de-aprendizagem.md)"** hehe eu típicamente sendo muito abstrato 😛 
 - **"Apenas comece um blog para você do passado!"** mas você já fez isso antes - e ninguém leu - e você perdeu o interesse.
 - **"Pergunte às pessoas o que elas querem ler!"** mas você não tem a quem perguntar e de qualquer forma as pessoas sempre dizem sim para conteúdo grátis. Que você escreve e eles então não lêem. E aí você perde o interesse.
-- **"Não se preocupe que leva um tempo para ter uma audiência!"** mas todos que te dizem isso não têm a ver com você pois eles já são bem-sucedidos aos seus olhos, e aí você perde o interesse.
+- **"Não se preocupe que leva um tempo para ter uma audiência!"** mas todos que te dizem isso não têm a ver com você, pois eles já são bem-sucedidos aos seus olhos, e aí você perde o interesse.
 
 **Você não está sozinho.**
 
@@ -41,11 +41,11 @@ Depois de muito pensar, **eu tenho um hack pra você**. Ele tem 5 palavras:
 - **Se for uma nova demonstração, vá ler o código fonte!** E então escreva passo a passo do código fonte explicando tudo com suas próprias palavras.
 - **Se for um novo vídeo/palestra/podcast/livro/postagem de blog**, faça um resumo com suas próprias palavras.
 - **Se for um novo curso**, passe por ele, desteque as 3 principais coisas que você aprendeu.
-- [Anotações desenhadas (sketch notes)](https://illustrated.dev/) para literalmente tudo é uma coisa que todo mundo AMA.
+- [Anotações desenhadas (sketch notes)](https://illustrated.dev/) para literalmente tudo, é uma coisa que todo mundo AMA.
 - [Tan Li Hau](https://twitter.com/lihautan) se tornou literalmente o mantenedor do Svelte por [pegar os TODOs no código do Svelte](https://www.youtube.com/watch?v=NSUa1124ahs)
 - traga suas próprias ideias, eu não sou seu chefe
 
-O GRANDE requisito sobre qualquer uma das opções acima é que você NECESSITA genuinamente amar/estar animado sobre a coisa que você está pegando. Se você não ama, sega em frente em silêncio. Você não quer construir uma marca sobre ficar falando mal do que os outros produzem.
+O GRANDE requisito sobre qualquer uma das opções acima é que você NECESSITA genuinamente amar/estar animado sobre a coisa que você está pegando. Se você não ama, segue em frente em silênciosamente. Você não quer construir uma marca sobre ficar falando mal do que os outros produzem.
 
 Você também deve fechar o ciclo - quando você produzir qualquer coisa (e.g. uma postagem de blog) baseado no trabalho deles, marque o criador nas redes sociais. Twitter é inerentemente projetado para isso, mas você também pode responder com um comentário ou enviar um email com uma mensagem agradável.
 
@@ -61,9 +61,9 @@ Se você tentar o seu melhor para entender o tópico, E ainda assim entendeu alg
 
 Simples: poucas pessoas fazem isso. É por isso que isso é um hack.
 
-A atividade na internet tem uma distribuição absurda da [lei de Zipf](https://pt.wikipedia.org/wiki/Lei_de_Zipf). Isso às vezes é chamado de "[regra do um percento](https://pt.wikipedia.org/wiki/Regra_do_1%25_(cultura_na_Internet))" - 90% das pessoas consomem o conteúdo passivamente, 9% commento sobre o conteúdo, 1% cria. Eu endossaria isso se não fosse pelo fato de que essa regra é MUITO errada:
+A atividade na internet tem uma distribuição absurda da [lei de Zipf](https://pt.wikipedia.org/wiki/Lei_de_Zipf). Isso às vezes é chamado de "[regra do um percento](https://pt.wikipedia.org/wiki/Regra_do_1%25_(cultura_na_Internet))" - 90% das pessoas consomem o conteúdo passivamente, 9% comentam sobre o conteúdo, 1% cria. Eu endossaria isso se não fosse pelo fato de que essa regra é MUITO errada:
 
-- Eu ajuda a modrar um [subreddit](https://www.reddit.com/r/reactjs) com ~300 mil visitantes únicos mensais - sendo muito bonzinho, cerca de 2 mil deles realmente comentam e, digamos, 100 pessoas enviam conteúdo de forma consistente.
+- Eu ajudo a moderar um [subreddit](https://www.reddit.com/r/reactjs) com ~300 mil visitantes únicos mensais - sendo muito bonzinho, cerca de 2 mil deles realmente comentam e, digamos, 100 pessoas enviam conteúdo de forma consistente.
 - Eu tenho [2 a 3 milhões de impressões](https://www.swyx.io/10000-loose-fans/) por mês no twitter, mas apenas 1 a 2 mil menções/repostas.
 - Pega qualquer vídeo do YouTube que você se importa. Veja a quantidade de visualizações, e olhe o número de comentários.
 
@@ -80,7 +80,7 @@ Existe uma *terrível* falta de feedback em tudo que é lugar. Sim, existem as s
 Em particular no Twitter, as pessoas podem ser tímidas em promover seus próprios trabalhos. Mas se *outra pessoa* na Internet fala coisas legais sobre o trabalho deles, bem, eles podem retuítar aquilo o dia inteiro.
 
 
-## Por que isso funciona com -você-?
+## Por que isso funciona com *você*?
 
 Feedback, feedback, feedback. Você perde o interesse quando você não recebe feedback. O que todos nós desejamos para continuar é um feedback de que estamos fazendo algo errado, ou certo, qualquer coisa para iniciar a próxima ação que tomamos. O fato de não sabermos qual será o feedback o torna uma "recompensa variável" - que é o chamariz para a formar um novo hábito.
 

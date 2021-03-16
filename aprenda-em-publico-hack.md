@@ -41,11 +41,11 @@ Depois de muito pensar, **eu tenho um hack pra você**. Ele tem 5 palavras:
 - **Se for uma nova demonstração, vá ler o código fonte!** E então escreva passo a passo do código fonte explicando tudo com suas próprias palavras.
 - **Se for um novo vídeo/palestra/podcast/livro/postagem de blog**, faça um resumo com suas próprias palavras.
 - **Se for um novo curso**, passe por ele, desteque as 3 principais coisas que você aprendeu.
-- [Anotações desenhadas (sketch notes)](https://illustrated.dev/) para literalmente tudo, é uma coisa que todo mundo AMA.
+- [Anotações desenhadas (sketch notes)](https://illustrated.dev/) para literalmente tudo é uma coisa que todo mundo AMA.
 - [Tan Li Hau](https://twitter.com/lihautan) se tornou literalmente o mantenedor do Svelte por [pegar os TODOs no código do Svelte](https://www.youtube.com/watch?v=NSUa1124ahs)
 - traga suas próprias ideias, eu não sou seu chefe
 
-O GRANDE requisito sobre qualquer uma das opções acima é que você NECESSITA genuinamente amar/estar animado sobre a coisa que você está pegando. Se você não ama, segue em frente em silênciosamente. Você não quer construir uma marca sobre ficar falando mal do que os outros produzem.
+O GRANDE requisito sobre qualquer uma das opções acima é que você NECESSITA genuinamente amar/estar animado sobre a coisa que você está pegando. Se você não ama, siga em frente em silenciosamente. Você não quer construir uma marca sobre ficar falando mal do que os outros produzem.
 
 Você também deve fechar o ciclo - quando você produzir qualquer coisa (e.g. uma postagem de blog) baseado no trabalho deles, marque o criador nas redes sociais. Twitter é inerentemente projetado para isso, mas você também pode responder com um comentário ou enviar um email com uma mensagem agradável.
 

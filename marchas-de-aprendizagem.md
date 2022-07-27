@@ -70,7 +70,7 @@ Reserve a marcha **Mineradora** para quando você encontrar ouro. Algo que resso
 - O **comprometimento público** é bem alto - na ordem de anos e carreiras. Você está cavando uma mina e gastando muito mais energia do que qualquer outra pessoa sã - se a área 
 que você escolheu tem uma boa chance de se ampliar e se aprofundar ao mesmo tempo que você está mineirando, isso ajuda. Portanto, tenha alguma forma de tese macro sobre por que esse campo em geral será cada vez mais importante. (Mais sobre isso em uma escrita futura.)
 
-Examples:
+Exemplos:
 
 - Tobias Koppers
 - Jen Simmons

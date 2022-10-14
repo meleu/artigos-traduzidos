@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 title: Notação Big L
 author: swyx
 ---

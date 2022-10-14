@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 title: Aprenda em Público
 description: A maneira mais rápida de aprender
 author: swyx

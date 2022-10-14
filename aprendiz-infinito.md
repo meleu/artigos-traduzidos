@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 title: Como ser um aprendiz infinito
 author: Sachin Rekhi
 ---

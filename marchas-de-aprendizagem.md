@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 title: Marchas de aprendizagem
 author: swyx
 ---

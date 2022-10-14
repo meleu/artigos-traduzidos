@@ -1,3 +1,9 @@
+---
+title: Notação Big L
+author: swyx
+---
+
+
 # Notação Big L
 
 ---

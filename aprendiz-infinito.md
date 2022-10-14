@@ -1,3 +1,8 @@
+---
+title: Como ser um aprendiz infinito
+author: Sachin Rekhi
+---
+
 # Como ser um Aprendiz Infinito
 
 ---

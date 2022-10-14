@@ -1,3 +1,9 @@
+---
+title: O hack definitivo para aprender em público
+description: Pegue o que eles largam
+author: swyx
+---
+
 # O Hack Definitivo Para Aprender Em Público
 
 ## Pegue O Que Eles Largam

@@ -1,3 +1,9 @@
+---
+title: Aprenda em Público
+description: A maneira mais rápida de aprender
+author: swyx
+---
+
 # Aprenda em Púbico
 
 ## A maneira mais rápida de aprender

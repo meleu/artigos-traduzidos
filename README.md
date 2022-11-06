@@ -8,26 +8,17 @@ Traduzindo para o português artigos que permanecerão relevantes por vários an
 
 O público alvo são pessoas que se interessam em trabalhar no setor de tecnologia (desenvolvedores de software e afins).
 
-- website: <https://meleu.github.io/artigos-traduzidos/>
+- website: <https://meleu.netlify.app/traducoes/>
 - repositório: <https://github.com/meleu/artigos-traduzidos/>
-
-
-## 📃 Lista de Artigos Traduzidos
-
-- [Aprenda Em Público](aprenda-em-publico.md)
-- [O Hack Definitivo Para Aprender Em Público](aprenda-em-publico-hack.md)
-- [Marchas de Aprendizagem](marchas-de-aprendizagem.md)
-- [Notação Big L](notacao-big-l.md)
-- [Aprendiz Infinito](aprendiz-infinito.md)
 
 
 ## 🤷 Por que traduzir?
 
-Existem muitos artigos técnicos espalhados por aí. A maioria é ruído, mas alguns deles são verdadeiras preciosidades.
+Existem muitos artigos técnicos espalhados por aí. A maioria é ruído, mas alguns poucos são verdadeiras preciosidades.
 
 Normalmente essas preciosidades estão disponíveis apenas em inglês, e infelizmente isso ainda é uma barreira para muitos colegas.
 
-Para tentar transpor essa barreira para você que ainda tem dificuldades com o inglês, eu estou traduzindo vários artigos que considero como verdadeiras preciosidades.
+Para tentar transpor essa barreira para você que ainda tem dificuldades com o inglês, eu estou traduzindo vários artigos que considero valiosos.
 
 
 ## 🤔 Que tipo de artigos tem aqui?

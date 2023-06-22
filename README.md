@@ -8,7 +8,7 @@ Traduzindo para o português artigos que permanecerão relevantes por vários an
 
 O público alvo são pessoas que se interessam em trabalhar no setor de tecnologia (desenvolvedores de software e afins).
 
-- website: <https://meleu.netlify.app/traducoes/>
+- website: <https://meleu.dev/traducoes>
 - repositório: <https://github.com/meleu/artigos-traduzidos/>
 
 

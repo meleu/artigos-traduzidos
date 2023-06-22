@@ -66,8 +66,8 @@ p.s. Eventualmente te pagarão por sua ajuda também. Bem mais do que você pens
 
 ---
 
-> Próximo: [Marchas de Aprendizagem](marchas-de-aprendizagem.md) (Como Começar a Aprender em Público)
+> Próximo: [[marchas-de-aprendizagem|Marchas de aprendizagem]] (Como Começar a Aprender em Público)
 
-> Ver também: [O Hack Definitivo para Aprendizagem em Público](aprenda-em-publico-hack.md) (expandindo o "Pegue o Que Eles Largam")
+> Ver também: [[aprenda-em-publico-hack|O Hack Definitivo para Aprendizagem em Público]] (expandindo o "Pegue o Que Eles Largam")
 
-> Ver também: [Notação Big L](notacao-big-l.md) (expandindo o por que "Aprender em Público" é a maneira mais rápida de aprender)
+> Ver também: [[notacao-big-l|Notação Big L]] (expandindo o por que "Aprender em Público" é a maneira mais rápida de aprender)
